@@ -1,0 +1,317 @@
+{
+    "trueFalseQuestions": [
+        {
+            "question": "Tê giác là loài động vật ăn thịt.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Chim cánh cụt có thể bay.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Ong chúa là con ong đực duy nhất trong tổ ong.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Chuồn chuồn có 6 chân.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Cá voi là loài động vật lớn nhất trên Trái đất.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Cá mập trắng là loài cá ăn thịt hung dữ nhất.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Cá ngựa là loài động vật duy nhất mà con đực mang thai.",
+            "correctAnswer": 1
+        },
+        {
+            "question": "Bọ ngựa có thể xoay đầu 360 độ.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Sóc có thể nhớ vị trí của hàng nghìn quả óc chó mà chúng đã chôn.",
+            "correctAnswer": 0
+        },
+        {
+            "question": "Chó sói là loài động vật ăn thịt.",
+            "correctAnswer": 1
+        }
+    ],
+    "oneChoiceQuestions": [
+        {
+            "question": "Thủ đô của Pháp là:",
+            "answers": [
+                "London",
+                "Berlin",
+                "Paris",
+                "Amsterdam"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Thủ đô của Nhật Bản là:",
+            "answers": [
+                "Tokyo",
+                "Seoul",
+                "Bắc Kinh",
+                "Singapore"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Thủ đô của Australia là:",
+            "answers": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Thủ đô của Nga là:",
+            "answers": [
+                "Moscow",
+                "Saint Petersburg",
+                "Kiev",
+                "Minsk"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Thủ đô của Canada là:",
+            "answers": [
+                "Toronto",
+                "Montreal",
+                "Vancouver",
+                "Ottawa"
+            ],
+            "correctAnswer": 3
+        }, 
+        {
+            "question": "Thủ đô của Ấn Độ là:",
+            "answers": [
+                "Mumbai",
+                "New Delhi",
+                "Kolkata",
+                "Chennai"
+            ],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Thủ đô của Brazil là:",
+            "answers": [
+                "Rio de Janeiro",
+                "Sao Paulo",
+                "Brasilia",
+                "Salvador"
+            ],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Thủ đô của Ai Cập là:",
+            "answers": [
+                "Cairo",
+                "Alexandria",
+                "Luxor",
+                "Aswan"
+            ],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Thủ đô của Ý là:",
+            "answers": [
+                "Milan",
+                "Florence",
+                "Naples",
+                "Rome"
+            ],
+            "correctAnswer": 3
+        },
+        {
+            "question": " Thủ đô của Hàn Quốc là:",
+            "answers": [
+                "Seoul",
+                "Busan",
+                "Incheon",
+                "Daegu"
+            ],
+            "correctAnswer": 0
+        }
+    ],
+    "multipleChoiceQuestions": [
+        {
+            "question": "Những ngôn ngữ lập trình nào làm cho trình duyệt hiểu được?",
+            "answers": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "PHP"
+            ],
+            "correctAnswer": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "question": "Câu lệnh nào được sử dụng để khai báo biến trong JavaScript?",
+            "answers": [
+                "var",
+                "int",
+                "string",
+                "const"
+            ],
+            "correctAnswer": [
+                0,
+                3
+            ]
+        },
+        {
+            "question": "Trong CSS, thuộc tính nào được sử dụng để thay đổi màu nền của một phần tử?",
+            "answers": [
+                "background-color",
+                "color",
+                "font-size",
+                "border"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu lệnh nào sau đây là câu lệnh điều kiện trong JavaScript?",
+            "answers": [
+                "for",
+                "while",
+                "if",
+                "switch"
+            ],
+            "correctAnswer": [
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Ngôn ngữ lập trình nào được sử dụng phổ biến trong việc phát triển ứng dụng di động?",
+            "answers": [
+                "Java",
+                "Python",
+                "Swift",
+                "C#"
+            ],
+            "correctAnswer": [
+                0,
+                2
+            ]
+        },
+        {
+            "question": "Ai là người sáng lập ra Facebook?",
+            "answers": [
+                "Bill Gates",
+                "Steve Jobs",
+                "Mark Zuckerberg",
+                "Jeff Bezos"
+            ],
+            "correctAnswer": [
+                2
+            ]
+        },
+        {
+            "question": "Ngày nào được coi là 'Ngày Quốc tế Phụ nữ'?",
+            "answers": [
+                "8/3",
+                "20/10",
+                "20/11",
+                "1/5"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Câu nào sau đây là một loại hình dữ liệu trong Python?",
+            "answers": [
+                "list",
+                "array",
+                "tuple",
+                "dictionary"
+            ],
+            "correctAnswer": [
+                0,
+                2,
+                3
+            ]
+        },
+        {
+            "question": "Núi cao nhất thế giới là?",
+            "answers": [
+                "Núi Everest",
+                "Núi Kilimanjaro",
+                "Núi Fuji",
+                "Núi McKinley"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        },
+        {
+            "question": "Thủ đô của nước Ý là?",
+            "answers": [
+                "Rome",
+                "Milan",
+                "Venice",
+                "Florence"
+            ],
+            "correctAnswer": [
+                0
+            ]
+        }
+    ],
+    "textQuestions": [
+        {
+            "question": "Phương pháp giáo dục nào hiệu quả nhất.",
+            "answer": ""
+        },
+        {
+            "question": "Nêu những ưu điểm và nhược điểm của việc sử dụng công nghệ trong giáo dục.",
+            "answer": ""
+        },
+        {
+            "question": "Trình bày các phương pháp phát triển ứng dụng web phổ biến hiện nay và nhấn mạnh vào ưu điểm và nhược điểm của mỗi phương pháp.",
+            "answer": ""
+        },
+        {
+            "question": "Nêu ý nghĩa và vai trò của Cuộc Cách mạng Công nghiệp trong lịch sử phát triển của loài người.",
+            "answer": ""
+        },
+        {
+            "question": "Phân tích sự khác biệt giữa marketing truyền thống và marketing kỹ thuật số, cùng với ví dụ minh họa cho mỗi loại marketing.",
+            "answer": ""
+        },
+        {
+            "question": "Mô tả quá trình hình thành và sự phát triển của Internet từ những ngày đầu cho đến ngày nay.",
+            "answer": ""
+        },
+        {
+            "question": "So sánh và đối chiếu giữa chủ nghĩa tư bản và chủ nghĩa xã hội, với nhấn mạnh vào cách mỗi hệ thống ảnh hưởng đến xã hội và kinh tế.",
+            "answer": ""
+        },
+        {
+            "question": "Trình bày những biến đổi về cách mạng công nghệ thông tin và tác động của chúng đối với cuộc sống hàng ngày của con người.",
+            "answer": ""
+        },
+        {
+            "question": "Nêu những ưu điểm và nhược điểm của việc sử dụng công nghệ trong giáo dục.",
+            "answer": ""
+        },
+        {
+            "question": "Trình bày các phương pháp phát triển ứng dụng web phổ biến hiện nay và nhấn mạnh vào ưu điểm và nhược điểm của mỗi phương pháp.",
+            "answer": ""
+        }
+    ]
+}
